@@ -1,6 +1,10 @@
 # Temitope Olawusi – Cybersecurity Analyst
 
-👋 Hello! I’m **Temitope Olawusi**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+👋 Hello! I’m **Temitope Olawusi**, I’m a Cybersecurity and GRC Analyst focused on reducing security risk and strengthening organizational resilience across cloud and on-premise environments.
+
+My work sits at the intersection of technical security operations and governance, risk, and compliance—ensuring security controls are not just documented, but effective. I specialize in threat detection, vulnerability and risk management, continuous monitoring, and aligning security practices with frameworks such as ISO 27001.
+
+I’m particularly interested in how security controls translate into measurable risk reduction, audit readiness, and informed decision-making. This repository highlights hands-on labs and reference materials that demonstrate practical implementation, validation, and assessment of security and compliance controls using secure-by-design principles.
 
 ---
 
