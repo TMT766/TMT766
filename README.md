@@ -1,4 +1,4 @@
-# Temitope Olawusi – Cybersecurity Analyst
+# Temi Olawusi – Cybersecurity Analyst
 
 👋 Hello! I’m **Temitope Olawusi**, I’m a Cybersecurity and GRC Analyst focused on reducing security risk and strengthening organizational resilience across cloud and on-premise environments.
 
