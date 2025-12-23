@@ -1,7 +1,7 @@
 # Temi Olawusi – Cybersecurity Analyst
 Cybersecurity -GRC Analyst | Threat Detection & Vulnerability Management 
-| Cloud & On-Prem Security 
-| Splunk . Nessus .MITRE ATT&CK | Business-Data Analyst
+| Cloud & On-Prem Security | Splunk . Nessus .MITRE ATT&CK | Business-Data Analyst
+
 
 👋 Hello! I’m **Temitope Olawusi**, I’m a Cybersecurity and GRC Analyst focused on reducing security risk and strengthening organizational resilience across cloud and on-premise environments.
 
